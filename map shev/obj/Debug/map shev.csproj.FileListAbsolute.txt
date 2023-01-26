@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\map shev\bin\Debug\map shev.exe.config
+C:\Users\student\Desktop\map shev\bin\Debug\map shev.exe
+C:\Users\student\Desktop\map shev\bin\Debug\map shev.pdb
+C:\Users\student\Desktop\map shev\obj\Debug\map shev.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\map shev\obj\Debug\map shev.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\map shev\obj\Debug\map_shev.Form1.resources
+C:\Users\student\Desktop\map shev\obj\Debug\map_shev.Properties.Resources.resources
+C:\Users\student\Desktop\map shev\obj\Debug\map shev.csproj.GenerateResource.cache
+C:\Users\student\Desktop\map shev\obj\Debug\map shev.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\map shev\obj\Debug\map shev.exe
+C:\Users\student\Desktop\map shev\obj\Debug\map shev.pdb
